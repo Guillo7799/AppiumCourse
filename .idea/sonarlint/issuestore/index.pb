@@ -22,3 +22,11 @@ S
 #src/EjercicioMensajesDatosSout.java,e\d\ed8be26273a644a62c08572cee4617a6d7f3f55b
 H
 src/EjercicioPrintf.java,1\b\1bcca0cef4cd621deb8c181be8a7eb61627b7837
+O
+src/EjerciciosMatematicos1.java,6\2\621d9b62e3bc4b9341a0768296aa6132c7805af0
+O
+src/EjerciciosMatematicos2.java,c\3\c3e1567e66bf7bd8231e06c9d3ca9f88b550bb09
+O
+src/EjerciciosMatematicos3.java,3\c\3c37a8ae228b093e7dadb2eb669fff988ad33693
+O
+src/EjerciciosMatematicos4.java,f\2\f2b638e7a18c8c9115dc425adebf5aa2fe7b5cf5
