@@ -12,3 +12,21 @@ Q
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+L
+src/EjercicioVariables1.java,8\5\85c2dadf7995b2e5db43fc43e7f73605e7d71a46
+L
+src/EjercicioVariables2.java,e\4\e49953474ea74bd9c59322c021b82d994fe7fd5f
+L
+src/EjercicioConstantes.java,4\4\441020bd4331d41b38d9c6d6fedcb6d001f42649
+S
+#src/EjercicioMensajesDatosSout.java,e\d\ed8be26273a644a62c08572cee4617a6d7f3f55b
+H
+src/EjercicioPrintf.java,1\b\1bcca0cef4cd621deb8c181be8a7eb61627b7837
+O
+src/EjerciciosMatematicos1.java,6\2\621d9b62e3bc4b9341a0768296aa6132c7805af0
+O
+src/EjerciciosMatematicos2.java,c\3\c3e1567e66bf7bd8231e06c9d3ca9f88b550bb09
+O
+src/EjerciciosMatematicos3.java,3\c\3c37a8ae228b093e7dadb2eb669fff988ad33693
+O
+src/EjerciciosMatematicos4.java,f\2\f2b638e7a18c8c9115dc425adebf5aa2fe7b5cf5
