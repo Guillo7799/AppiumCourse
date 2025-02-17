@@ -30,3 +30,15 @@ O
 src/EjerciciosMatematicos3.java,3\c\3c37a8ae228b093e7dadb2eb669fff988ad33693
 O
 src/EjerciciosMatematicos4.java,f\2\f2b638e7a18c8c9115dc425adebf5aa2fe7b5cf5
+P
+ src/methods/RandomUtilities.java,f\8\f888db306a3cbe74cd27bbf472835b8f52dbb057
+P
+ src/methods/EjercicioRandom.java,1\8\18f3af095821746711ac45c743c1e8e2791d698b
+S
+#src/methods/EjerciciosMetodos1.java,5\3\53bf44b4c8e7b4332ce2ec37a6f718626318b745
+S
+#src/methods/EjerciciosMetodos2.java,6\d\6d86eef987a40a08624d0ef053852f71ac6cf7b7
+S
+#src/methods/EjerciciosMetodos3.java,e\8\e8fad64739a84742bb39cc6e80bb203585626f4b
+S
+#src/methods/EjerciciosMetodos4.java,f\d\fd08973aa045ef5d7e78880bab50613bee2be8c9
