@@ -3,7 +3,7 @@ package scanner;
 import java.util.Scanner;
 
 public class ScannerManager {
-    static int leerInt(Scanner scanner, String mensaje) {
+    public static int leerInt(Scanner scanner, String mensaje) {
         System.out.printf("%s", mensaje);
         return scanner.nextInt();
     }

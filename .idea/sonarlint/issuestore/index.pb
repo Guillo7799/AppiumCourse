@@ -54,3 +54,7 @@ K
 src/Wrapper/Ejercicio1.java,c\1\c12cfca8d9e8917d3ac6cad950dc25961956d359
 K
 src/Wrapper/Ejercicio2.java,a\3\a36d9b5c888242de038322af0e17a3a0371ae02a
+X
+(src/IncrementoDecremento/Ejercicio1.java,0\e\0eeb4d5a73b510b0f4d40f001dc438fafb17c065
+X
+(src/IncrementoDecremento/Ejercicio2.java,d\a\da80110bbf587622110344dbf83c61d0330b4bd2
