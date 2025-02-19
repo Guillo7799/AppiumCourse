@@ -64,3 +64,5 @@ Z
 *src/ComparacionesNumericas/Ejercicio2.java,c\4\c4ca3da7b683cd8c184016142619cc3ffa2bff92
 Z
 *src/ComparacionesNumericas/Ejercicio3.java,2\b\2b4d64cc343f720a991ca22a0b1cf5273c0b3f72
+V
+&src/OperacionesLogicas/Ejercicio1.java,0\6\061a581ca0e3ddc9ee1c66823f6445dfab0aa59e
