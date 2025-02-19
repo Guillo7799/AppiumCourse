@@ -42,3 +42,11 @@ S
 #src/methods/EjerciciosMetodos3.java,e\8\e8fad64739a84742bb39cc6e80bb203585626f4b
 S
 #src/methods/EjerciciosMetodos4.java,f\d\fd08973aa045ef5d7e78880bab50613bee2be8c9
+K
+src/scanner/Ejercicio1.java,6\8\688835e6947bb1f7b90ea9937081d1f736b61599
+K
+src/scanner/Ejercicio2.java,5\2\5242deb234019d0e64aa7bc9c290c978ac787bf7
+O
+src/scanner/ScannerManager.java,9\b\9b6b793f7d7425fc51216a77c19ee606a8bd1001
+K
+src/scanner/Ejercicio3.java,e\e\ee0459b9602c35a065ef2b5a6677b4f39194d707
