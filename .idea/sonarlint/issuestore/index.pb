@@ -58,3 +58,9 @@ X
 (src/IncrementoDecremento/Ejercicio1.java,0\e\0eeb4d5a73b510b0f4d40f001dc438fafb17c065
 X
 (src/IncrementoDecremento/Ejercicio2.java,d\a\da80110bbf587622110344dbf83c61d0330b4bd2
+Z
+*src/ComparacionesNumericas/Ejercicio1.java,a\6\a66524cdf5c4d048b9d55925c013eba7c48f0c05
+Z
+*src/ComparacionesNumericas/Ejercicio2.java,c\4\c4ca3da7b683cd8c184016142619cc3ffa2bff92
+Z
+*src/ComparacionesNumericas/Ejercicio3.java,2\b\2b4d64cc343f720a991ca22a0b1cf5273c0b3f72
