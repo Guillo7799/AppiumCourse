@@ -50,3 +50,7 @@ O
 src/scanner/ScannerManager.java,9\b\9b6b793f7d7425fc51216a77c19ee606a8bd1001
 K
 src/scanner/Ejercicio3.java,e\e\ee0459b9602c35a065ef2b5a6677b4f39194d707
+K
+src/Wrapper/Ejercicio1.java,c\1\c12cfca8d9e8917d3ac6cad950dc25961956d359
+K
+src/Wrapper/Ejercicio2.java,a\3\a36d9b5c888242de038322af0e17a3a0371ae02a
