@@ -66,3 +66,9 @@ Z
 *src/ComparacionesNumericas/Ejercicio3.java,2\b\2b4d64cc343f720a991ca22a0b1cf5273c0b3f72
 V
 &src/OperacionesLogicas/Ejercicio1.java,0\6\061a581ca0e3ddc9ee1c66823f6445dfab0aa59e
+Y
+)src/CondicionalIfElse/EjercicioDados.java,8\6\86e298c27e469d7b9a5f006ed0de733468888afb
+Y
+)src/CondicionalIfElse/EjercicioBanco.java,1\0\107d9134f09aca0adabac170336f23fa0a8a793d
+[
++src/CondicionalIfElse/EjercicioCirculo.java,e\8\e87a952ed598b2ecec37fa56ea70f623e0784e44
