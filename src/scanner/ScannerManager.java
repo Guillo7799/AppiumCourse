@@ -8,7 +8,7 @@ public class ScannerManager {
         return scanner.nextInt();
     }
 
-    static double leerDouble(Scanner scanner, String mensaje) {
+    public static double leerDouble(Scanner scanner, String mensaje) {
         System.out.printf("%s", mensaje);
         return scanner.nextDouble();
     }
@@ -18,7 +18,7 @@ public class ScannerManager {
         return scanner.nextLine();
     }
 
-    static char leerChar(Scanner scanner, String mensaje) {
+    public static char leerChar(Scanner scanner, String mensaje) {
         System.out.printf("%s", mensaje);
         return scanner.next().charAt(0);
     }
