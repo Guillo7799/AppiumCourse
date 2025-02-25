@@ -13,7 +13,7 @@ public class ScannerManager {
         return scanner.nextDouble();
     }
 
-    static String leerString(Scanner scanner, String mensaje) {
+    public static String leerString(Scanner scanner, String mensaje) {
         System.out.printf("%s", mensaje);
         return scanner.nextLine();
     }
