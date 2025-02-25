@@ -72,3 +72,9 @@ Y
 )src/CondicionalIfElse/EjercicioBanco.java,1\0\107d9134f09aca0adabac170336f23fa0a8a793d
 [
 +src/CondicionalIfElse/EjercicioCirculo.java,e\8\e87a952ed598b2ecec37fa56ea70f623e0784e44
+O
+src/SwitchEnums/Ejercicio1.java,7\f\7f2e236de32c9717423ae7c56f55bc6cc1ce2b9d
+O
+src/SwitchEnums/Ejercicio2.java,f\0\f0412ad702ea220a7ae6504379c08038afd117bb
+P
+ src/SwitchEnums/EjercicioE1.java,b\c\bc00f887dfe4f55d7a1f821303adad5c94f29dfd
